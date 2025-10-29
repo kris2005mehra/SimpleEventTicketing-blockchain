@@ -42,7 +42,10 @@ The smart contract ensures that:
 ## 🔗 Deployed Smart Contract  
 
 **Deployed Contract Address:**  
-0x38a3e7fd9d03D7b3874ADE7aDcB301d686aF60fa 
+0x38a3e7fd9d03D7b3874ADE7aDcB301d686aF60fa
+
+**Url:**
+https://celo-sepolia.blockscout.com/tx/0x3d7e1abaf5ceff98190d3bac5b10e111738a32075d605051505e0d87e38a2b37
 
 ---
 ## 📸 ScreenShot Of Transaction
